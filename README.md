@@ -2,7 +2,12 @@
   <img src="./github-header-banner.png" alt="Banner" />
 </p>
 
-<!--
+# Hi 👋, I'm Shaurya Singh Rathore
+
+💻 Full Stack Developer  
+⚡ DSA Enthusiast  
+🚀 Building MERN + AI Projects  
+🎯 Focused on Problem Solving & Scalable Applications<!--
 **Pandacoder0011/Pandacoder0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
