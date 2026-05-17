@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./github-header-banner.png" alt="Banner" />
+</p>
 
 <!--
 **Pandacoder0011/Pandacoder0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
